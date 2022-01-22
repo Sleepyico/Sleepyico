@@ -6,7 +6,7 @@
 ## I'm a Computer Engineer, Web Designer, and Off-Speciality Skills
 ((Artist, Musician, Gamer and Streamer))
 
-- 🔭 Laith, 19 YO, Turkish|Jordanian!
+- 🔭 Laith, 19 YO, Turkish | Jordanian!
 - 🌱 I’m currently learning Cybersecurity and everything in general🤣.
 - 🥅 2021-2022 Goals: Contribute more to Open Source projects and Learn more languages.
 - ⚡ My quote is "Life takes you down weird paths."
