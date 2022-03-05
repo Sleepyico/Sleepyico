@@ -5,7 +5,7 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dicosan%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/icosan)
 
 ## I'm a Computer Engineer, Web Designer, and Off-Speciality Skills
-((Artist, Musician, Gamer and Streamer))
+### As well as an Artist, Musician, Gamer and Streamer.
 
 - 🔭 Laith, 19 YO, Turkish | Jordanian!
 - 🌱 I’m currently learning Cybersecurity and everything in general🤣.
