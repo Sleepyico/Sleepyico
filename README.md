@@ -2,7 +2,7 @@
 
 [![Twitch Status](https://img.shields.io/twitch/status/babyico?color=blueviolet&logo=twitch&style=for-the-badge)](https://twitch.com/babyico)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iconicaal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ficonicaal&screen_name=iconicaal)
-[![Patreon](https://i.imgur.com/buSnx8nt.png)](https://www.patreon.com/bePatron?u=70144268)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dicosan%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/icosan)
 
 ## I'm a Computer Engineer, Web Designer, and Off-Speciality Skills
 ((Artist, Musician, Gamer and Streamer))
@@ -47,7 +47,7 @@
 ### 📕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮
 
 - [![Twitch Status](https://img.shields.io/badge/babyico%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.com/babyico)
-- [![Discord](https://img.shields.io/badge/THR%20eSports%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/thr)
+- [![Discord](https://img.shields.io/badge/THR%20eSports%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/carena)
 - [![Twitter](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter/iconicaal)
 
 
