@@ -2,6 +2,7 @@
 
 [![Twitch Status](https://img.shields.io/twitch/status/babyico?color=blueviolet&logo=twitch&style=for-the-badge)](https://twitch.com/babyico)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iconicaal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ficonicaal&screen_name=iconicaal)
+<a href="https://www.patreon.com/bePatron?u=70144268" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## I'm a Computer Engineer, Web Designer, and Off-Speciality Skills
 ((Artist, Musician, Gamer and Streamer))
