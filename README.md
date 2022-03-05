@@ -1,4 +1,4 @@
-### Hola, I'm Laith - aka [Iconical][website] 👋
+### Hola, I'm Laith - aka [Iconical][instagram] 👋
 
 [![Twitch Status](https://img.shields.io/twitch/status/babyico?color=blueviolet&logo=twitch&style=for-the-badge)](https://twitch.com/babyico)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iconicaal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ficonicaal&screen_name=iconicaal)
