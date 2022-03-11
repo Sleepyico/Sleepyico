@@ -2,7 +2,7 @@
 
 ## I'm a Programmer, Web Designer, and got Off-Speciality Skills.
 ### As well as an Artist and 3D Model Creator. plus I am wokring on many projects
-regarding programming and desingning as well as Discord bots and etc.
+### regarding programming and desingning as well as Discord bots and etc.
 
 - 🔭 Laith, 20 YO, Turkish | Jordanian!
 - 🌱 I’m currently learning Cybersecurity, Web Designer, and Off-Speciality Skills, and everything in general🤣.
