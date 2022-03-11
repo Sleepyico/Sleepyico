@@ -13,19 +13,15 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dicosan%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/icosan)
 
 ### Connect with me:
-
 [<img align="left" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" />][twitter]
 [<img align="left" alt="twitch" width="22px" src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" />][linkedin]
-[![Discord](https://img.shields.io/badge/THR%20eSports%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/carena)
+[<img align="left" alt="Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />][Discord]
 
 <br />
 
- 
-
 ### Languages and Tools:
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -52,7 +48,7 @@
 
 
 
-
+[Discord]: https://dsc.gg/carena
 [website]: https://twitch.com/babyico
 [twitter]: https://twitter.com/iconicaal
 [instagram]: https://instagram.com/iconicaal
