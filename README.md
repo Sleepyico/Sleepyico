@@ -35,7 +35,7 @@
 
 ---
 
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&cover_image=true&theme=default&bar_color_cover=true)]]
 
 ---
 
