@@ -46,6 +46,10 @@
 - [![Discord](https://img.shields.io/badge/THR%20eSports%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/carena)
 - [![Twitter](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter/iconicaal)
 
+---
+
+![Iconicaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iconicaal&show_icons=true&theme=dark)
+
 
 ---
 **© [iconical][instagram]**
