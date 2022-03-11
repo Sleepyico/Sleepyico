@@ -1,7 +1,7 @@
 ### Hola, I'm Laith - aka [Iconical][instagram] 👋 
 
-## I'm a Programmer, Web Designer, and got Off-Speciality Skills.
-### As well as an Artist and 3D Model Creator. plus I am wokring on many projects regarding programming and desingning as well as Discord bots and etc.
+## I'm a Programmer, Designer, and got Off-Speciality Skills.
+### So, an Artist and a 3D Model Creator. Plus I am wokring on many projects regarding programming and desingning. Projects [ Game, Discord Bot, Programs to help and ease things to people ]
 
 - 🔭 Laith, 20 YO, Turkish | Jordanian!
 - 🌱 I’m currently learning Cybersecurity, Web Designer, and Off-Speciality Skills, and everything in general🤣.
