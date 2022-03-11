@@ -1,7 +1,7 @@
 ### Hola, I'm Laith - aka [Iconical][instagram] 👋 
 
 ## I'm a Programmer, Web Designer, and got Off-Speciality Skills.
-### As well as an Artist and 3D Model Creator.
+### As well as an Artist and 3D Model Creator. plus I am wokring on many projects regarding programming and desingning!!!
 
 - 🔭 Laith, 20 YO, Turkish | Jordanian!
 - 🌱 I’m currently learning Cybersecurity, Web Designer, and Off-Speciality Skills, and everything in general🤣.
@@ -25,6 +25,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="NPM" width="26px" src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
  <br />
@@ -33,8 +34,6 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dicosan%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/icosan)
 
 ---
-
-### 📕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮
 
 
 
