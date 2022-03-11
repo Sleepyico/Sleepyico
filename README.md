@@ -5,12 +5,14 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dicosan%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/icosan)
 
 ## I'm a Computer Engineer, Web Designer, and Off-Speciality Skills
-### As well as an Artist, Musician, Gamer and Streamer.
+### As well as an Artist and 3D Model Creator.
 
-- 🔭 Laith, 19 YO, Turkish | Jordanian!
-- 🌱 I’m currently learning Cybersecurity and everything in general🤣.
-- 🥅 2021-2022 Goals: Contribute more to Open Source projects and Learn more languages.
+- 🔭 Laith, 20 YO, Turkish | Jordanian!
+- 🌱 I’m currently learning Cybersecurity, Web Designer, and Off-Speciality Skills, and everything in general🤣.
+- 🥅 2022-2023 Goals: Contribute more to Open Source projects and Learn more languages.
 - ⚡ My quote is "Life takes you down weird paths."
+- 🎨 I'm a very good 3D Models, 3D Art, and 3D NFT creator, with many other skills regarding Arts.
+     + I still got many other things am good at..
 
 ### Connect with me:
 
