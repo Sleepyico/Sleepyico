@@ -1,4 +1,4 @@
-### Hola, I'm Laith - aka [Iconical][instagram] 👋
+### Hola, I'm Laith - aka [Iconical][instagram] 👋 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dicosan%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/icosan)
 
 ## I'm a Programmer, Web Designer, and got Off-Speciality Skills.
 ### As well as an Artist and 3D Model Creator.
@@ -9,8 +9,6 @@
 - ⚡ My quote is "Life takes you down weird paths."
 - 🎨 I'm a very good 3D Models, 3D Art, and 3D NFT creator, with many other skills regarding Arts.
      + I still got many other things am good at..
-     + 
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dicosan%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/icosan)
 
 ### Connect with me:
 [<img align="left" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />][instagram]
