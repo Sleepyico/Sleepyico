@@ -11,7 +11,7 @@
      
 ### Connect with me: 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![ Instagram ](https://sk.illicons.dev/icons?i=instagram)][instagram]
+[![Instagram](https://sk.illicons.dev/icons?i=instagram)][instagram]
 
 [![ Instagram ](https://sk.illicons.dev/icons?i=wordpress)][website]
 
