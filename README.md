@@ -1,13 +1,14 @@
-<h3> Hola, I'm Laith - aka [Iconical][instagram] 👋 </h3> 
+<h3> Hola, I'm Laith - aka Iconical 👋 </h3> 
 <h2> I'm a Programmer, Designer, and got Off-Speciality Skills. </h2> 
 <h3> So, an Artist and a 3D Model Creator. Plus I am wokring on many projects regarding programming and desingning. Projects such as Game, Discord Bot, Programs to help and ease things to anyone. </h3> 
-
+<a>
 - 🔭 Laith, 20 YO, Turkish | Jordanian!
 - 🌱 I’m currently learning Cybersecurity, Web Designer, and Off-Speciality Skills, and everything in general🤣.
 - 🥅 2022-2023 Goals: Contribute more to Open Source projects and Learn more languages.
 - ⚡ My quote is "Life takes you down weird paths."
 - 🎨 I'm a very good 3D Models, 3D Art, and 3D NFT creator, with many other skills regarding Arts.
      + I still got many other things am good at..
+     </a>
 <h3> Connect with me: </h3>
 [<img align="left" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" />][twitter]
