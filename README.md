@@ -10,47 +10,12 @@
      + I still got many other things am good at..
      
 ### Connect with me: 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://sk.illicons.dev/icons?i=instagram)](https://skillicons.dev)
 
-[![ Instagram ](https://sk.illicons.dev/icons?i=wordpress)][website]
-
-[![ Twitter ](https://sk.illicons.dev/icons?i=twitter)][twitter]
-
-[![ LinkedIN ](https://sk.illicons.dev/icons?i=linkedin)][linkedin]
-
-[![ Discord ](https://sk.illicons.dev/icons?i=discord)][discord]
 
 <br />
 
 ### Languages and Tools:  
-[![ Languages Learned ](https://sk.illicons.dev/icons?i=html)][cssplaylist]
 
-[![ Languages Learned ](https://sk.illicons.dev/icons?i=css)][cssplaylist]
-
-[![Languages Learned](https://sk.illicons.dev/icons?i=js)][jsplaylist]
-
-[![ Languages Learned ](https://sk.illicons.dev/icons?i=nodejs)][https://www.youtube.com/watch?v=oe421epjebe]
-
-[![ Languages Learned ](https://sk.illicons.dev/icons?i=c)][webdevplaylist]
-
-[![ Languages Learned ](https://sk.illicons.dev/icons?i=cpp)][webdevplaylist]
-
-[![ Languages Learned ](https://sk.illicons.dev/icons?i=cs)][webdevplaylist]
-
-[![ Languages Learned ](https://sk.illicons.dev/icons?i=py)][webdevplaylist]
-
-[![ Developed Projects ](https://sk.illicons.dev/icons?i=bots)][webdevplaylist]
-
-[![ Software Used ](https://sk.illicons.dev/icons?i=vscode)][https://code.visualstudio.com/]
-
-[![ Software Used ](https://sk.illicons.dev/icons?i=blender)][https://www.blender.org/download/release/blender3.1/blender-3.1.0-windows-x64.msi/]
-
-[![ Software Used ](https://sk.illicons.dev/icons?i=unity)][https://public-cdn.cloud.unity3d.com/hub/prod/unityhubsetup.exe]
-
-[![ Framework Used ](https://sk.illicons.dev/icons?i=git)][https://git-scm.com/downloads]
-
-[![ Framework Used ](https://sk.illicons.dev/icons?i=cloudflare)][https://www.cloudflare.com/]
  
 #### Support me and Get access to my work and projects:(Check Buymeacoffee Profile for more info) 
 <a href="https://www.buymeacoffee.com/iconical"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=iconical&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
