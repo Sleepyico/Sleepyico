@@ -31,7 +31,7 @@
  <br />
  
 #### Support me and Get access to my work and projects:(Check Patreon Profile for more info)
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dicosan%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/icosan)
+<a href="https://www.buymeacoffee.com/iconical"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=iconical&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ---
 
