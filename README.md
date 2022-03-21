@@ -10,18 +10,47 @@
      + I still got many other things am good at..
      
 ### Connect with me: 
-[<img align="left" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png">][Instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png">][Twitter]
-[<img align="left" alt="twitch" width="22px" src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png">][Twitch]
-[<img align="left" alt="LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png">][Linkedin]
-[<img align="left" alt="Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png">][Discord]
+
+[![ Instagram ](https://sk.illicons.dev/icons?i=instagram)][instagram]
+
+[![ Instagram ](https://sk.illicons.dev/icons?i=wordpress)][website]
+
+[![ Twitter ](https://sk.illicons.dev/icons?i=twitter)][twitter]
+
+[![ LinkedIN ](https://sk.illicons.dev/icons?i=linkedin)][linkedin]
+
+[![ Discord ](https://sk.illicons.dev/icons?i=discord)][discord]
 
 <br />
 
 ### Languages and Tools:  
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,c,cpp,cs,cloudflare,discord,bots,git,vscode,blender)]
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,c,cpp,cs,cloudflare,discord,bots,git,vscode,blender)](https://ico.is-a.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)][jsplaylist]
+[![ Languages Learned ](https://sk.illicons.dev/icons?i=html)][cssplaylist]
+
+[![ Languages Learned ](https://sk.illicons.dev/icons?i=css)][cssplaylist]
+
+[![ Languages Learned ](https://sk.illicons.dev/icons?i=js)][jsplaylist]
+
+[![ Languages Learned ](https://sk.illicons.dev/icons?i=nodejs)][https://www.youtube.com/watch?v=oe421epjebe]
+
+[![ Languages Learned ](https://sk.illicons.dev/icons?i=c)][webdevplaylist]
+
+[![ Languages Learned ](https://sk.illicons.dev/icons?i=cpp)][webdevplaylist]
+
+[![ Languages Learned ](https://sk.illicons.dev/icons?i=cs)][webdevplaylist]
+
+[![ Languages Learned ](https://sk.illicons.dev/icons?i=py)][webdevplaylist]
+
+[![ Developed Projects ](https://sk.illicons.dev/icons?i=bots)][webdevplaylist]
+
+[![ Software Used ](https://sk.illicons.dev/icons?i=vscode)][https://code.visualstudio.com/]
+
+[![ Software Used ](https://sk.illicons.dev/icons?i=blender)][https://www.blender.org/download/release/blender3.1/blender-3.1.0-windows-x64.msi/]
+
+[![ Software Used ](https://sk.illicons.dev/icons?i=unity)][https://public-cdn.cloud.unity3d.com/hub/prod/unityhubsetup.exe]
+
+[![ Framework Used ](https://sk.illicons.dev/icons?i=git)][https://git-scm.com/downloads]
+
+[![ Framework Used ](https://sk.illicons.dev/icons?i=cloudflare)][https://www.cloudflare.com/]
  
 #### Support me and Get access to my work and projects:(Check Buymeacoffee Profile for more info) 
 <a href="https://www.buymeacoffee.com/iconical"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=iconical&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
@@ -40,7 +69,6 @@
 **© [iconical][instagram]**
 
 
-[Twitch]: https://twitch.tv/babyico
 [Discord]: https://dsc.gg/carena
 [Website]: https://ico.is-a.dev
 [Twitter]: https://twitter.com/iconicaal
