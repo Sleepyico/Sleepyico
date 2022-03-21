@@ -3,10 +3,10 @@
 <h3 align="center"> So, an Artist and a 3D Model Creator. Plus I am wokring on many projects regarding programming and desingning. Projects such as Game, Discord Bot, Programs to help and ease things to anyone. </h3> 
 <h5 align="center">
 - 🔭 Laith, 20 YO, Turkish | Jordanian! <br>
-- 🌱 I’m currently learning Cybersecurity, Web Designer, and Off-Speciality Skills, and everything in general🤣.<br>
-- 🥅 2022-2023 Goals: Contribute more to Open Source projects and Learn more languages.<br>
+- 🌱 I’m currently learning Cybersecurity, Web Designer, <br>and Off-Speciality Skills, and everything in general🤣.<br>
+- 🥅 2022-2023 Goals: Contribute more to Open Source projects <br>and Learn more languages.<br>
 - ⚡ My quote is "Life takes you down weird paths."<br>
-- 🎨 I'm a very good 3D Models, 3D Art, and 3D NFT creator, with many other skills regarding Arts.<br>
+- 🎨 I'm a very good 3D Models, 3D Art, and 3D NFT creator, with many<br> other skills regarding Arts.<br>
      + I still got many other things am good at..
      </h5>
 <h3 align="center"> Connect with me: </h3>
