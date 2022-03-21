@@ -10,11 +10,11 @@
      + I still got many other things am good at..
      
 <h3 align="center"> Connect with me: </h3>
-<img align="center" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" link="https://instagram/iconical.eth" />
-<img align="center" alt="Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" />
-<img align="center" alt="twitch" width="22px" src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png" />
-<img align="center" alt="LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" />
-<img align="center" alt="Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />
+<img align="center" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" link="https://instagram/iconical.eth">
+<img align="center" alt="Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png">
+<img align="center" alt="twitch" width="22px" src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png">
+<img align="center" alt="LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png">
+<img align="center" alt="Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png">
 
 <br />
 
