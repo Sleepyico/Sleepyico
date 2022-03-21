@@ -35,7 +35,6 @@
 ![Iconical's Discord Stats](https://discord.c99.nl/widget/theme-3/362301055976996864.png)<br /><br />
 ![Iconical's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyico&count_private=true&show_icons=true&theme=dark)
 ![Iconical's GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=whinee&layout=compact&theme=dark)<br>
-![Babyico](https://count.getloli.com/get/@babyico?theme=rule34)
 
 ---
 **© [iconical][instagram]**
