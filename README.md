@@ -19,14 +19,9 @@
 <br />
 
 ### Languages and Tools:  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c,cpp,cs,cloudflare,discord,bots,git,vscode,blender)](https://ico.is-a.dev)
-<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="NPM" width="26px" src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,c,cpp,cs,cloudflare,discord,bots,git,vscode,blender)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,c,cpp,cs,cloudflare,discord,bots,git,vscode,blender)](https://ico.is-a.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)][jsplaylist]
  
 #### Support me and Get access to my work and projects:(Check Buymeacoffee Profile for more info) 
 <a href="https://www.buymeacoffee.com/iconical"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=iconical&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
