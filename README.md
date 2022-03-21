@@ -10,8 +10,11 @@
      + I still got many other things am good at..
      
 ### Connect with me: 
-
-
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 <br />
 
 ### Languages and Tools:  
