@@ -39,7 +39,7 @@
 
 ---
 
-![Iconical's Discord Stats](https://discord.c99.nl/widget/theme-3/362301055976996864.png)<br />
+![Iconical's Discord Stats](https://discord.c99.nl/widget/theme-3/362301055976996864.png)<br /><br />
 ![Iconical's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyico&show_icons=true&theme=dark)
 
 
