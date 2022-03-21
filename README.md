@@ -10,26 +10,26 @@
      + I still got many other things am good at..
      
 ### Connect with me: 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-[![Website](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iconical.eth)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://dsc.gg/carena)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/babyiconical)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iconicaal)
+[![Website](https://skillicons.dev/icons?i=wordpress)](https://ico.is-a.dev)
 <br />
 
 ### Languages and Tools:  
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bots)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
+[![Languages Learned](https://skillicons.dev/icons?i=html)](https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4)
+[![Languages Learned](https://skillicons.dev/icons?i=css)](https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4)
+[![Languages Learned](https://skillicons.dev/icons?i=js)](https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B)
+[![Languages Learned](https://skillicons.dev/icons?i=nodejs)](https://www.youtube.com/watch?v=oe421epjebe)
+[![Languages Learned](https://skillicons.dev/icons?i=c,cpp,cs)](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt)
+[![Languages Learned](https://skillicons.dev/icons?i=py)](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt)
+[![Developed Projects](https://skillicons.dev/icons?i=bots)](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt)
+[![Software Used](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Software Used](https://skillicons.dev/icons?i=blender)](https://www.blender.org/download/release/blender3.1/blender-3.1.0-windows-x64.msi)
+[![Software Used](https://skillicons.dev/icons?i=unity)](https://public-cdn.cloud.unity3d.com/hub/prod/unityhubsetup.exe)
+[![Framework Used](https://skillicons.dev/icons?i=git)](https://git-scm.com/downloads)
+[![Framework Used](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
  
 #### Support me and Get access to my work and projects:(Check Buymeacoffee Profile for more info) 
 <a href="https://www.buymeacoffee.com/iconical"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=iconical&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
