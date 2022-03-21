@@ -39,7 +39,7 @@
 
 ---
 
-![Iconicaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iconicaal&show_icons=true&theme=dark)
+![Iconical's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyico&show_icons=true&theme=dark)
 
 
 ---
