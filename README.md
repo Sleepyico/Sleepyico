@@ -1,6 +1,6 @@
 <h3 align="center"> Hola, I'm Laith - aka Iconical 👋 </h3> 
 <h2 align="center"> I'm a Programmer, Designer, and got Off-Speciality Skills. </h2> 
-###So, an Artist and a 3D Model Creator. Plus I am wokring on many projects regarding programming and desingning. Projects such as Game, Discord Bot, Programs to help and ease things to anyone. </h3> 
+### So, an Artist and a 3D Model Creator. Plus I am wokring on many projects regarding programming and desingning. Projects such as Game, Discord Bot, Programs to help and ease things to anyone. </h3> 
 
 - 🔭 Laith, 20 YO, Turkish | Jordanian! <br>
 - 🌱 I’m currently learning Cybersecurity, Web Designer, and Off-Speciality Skills, and everything in general🤣.<br>
