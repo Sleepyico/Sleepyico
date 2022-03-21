@@ -10,11 +10,11 @@
      + I still got many other things am good at..
      
 ### Connect with me: 
-[<img align="left" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png">]
-[<img align="left" alt="Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png">]
-[<img align="left" alt="twitch" width="22px" src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png">]
-[<img align="left" alt="LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png">]
-[<img align="left" alt="Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png">]
+[<img align="left" alt="Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png">][Instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png">][Twitter]
+[<img align="left" alt="twitch" width="22px" src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png">][Twitch]
+[<img align="left" alt="LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png">][Linkedin]
+[<img align="left" alt="Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png">][website]
 
 <br />
 
