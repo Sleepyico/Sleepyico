@@ -28,7 +28,7 @@
 
 [![ Languages Learned ](https://sk.illicons.dev/icons?i=css)][cssplaylist]
 
-[![ Languages Learned ](https://sk.illicons.dev/icons?i=js)][jsplaylist]
+[![Languages Learned](https://sk.illicons.dev/icons?i=js)][jsplaylist]
 
 [![ Languages Learned ](https://sk.illicons.dev/icons?i=nodejs)][https://www.youtube.com/watch?v=oe421epjebe]
 
