@@ -38,8 +38,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=laith-daaja&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=laith-daaja&redirect=true)
 
----
-
 ![Iconical's Discord Stats](https://discord.c99.nl/widget/theme-3/362301055976996864.png)<br /><br />
 <a style="text-decoration: none;" href="https://ico.is-a.dev/">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
