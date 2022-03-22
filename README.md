@@ -41,10 +41,10 @@
 ![Iconical's Discord Stats](https://discord.c99.nl/widget/theme-3/362301055976996864.png)<br /><br />
 ---
 <a style="text-decoration: none;" href="https://ico.is-a.dev/">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true&custom_title=Iconical%27s%20Stats&title_color=D2042D&icon_color=FFC300&text_color=FAF9F6" />
 </a>
 <a href="https://ico.is-a.dev/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Iconical%27s%20Most%20Used%20Languages&title_color=D2042D&text_color=FAF9F6" />
 </a>
 
 ---
