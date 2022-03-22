@@ -45,7 +45,7 @@
 ![Iconical's GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=whinee&layout=compact&theme=dark)<br>
 
 ---
-**© [iconical][instagram]**
+<h6><a href="https://ico.is-a.dev/">©Iconical</a></h6>
 
 
 [Discord]: https://dsc.gg/carena
