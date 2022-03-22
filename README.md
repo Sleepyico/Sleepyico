@@ -41,8 +41,12 @@
 ---
 
 ![Iconical's Discord Stats](https://discord.c99.nl/widget/theme-3/362301055976996864.png)<br /><br />
-![Iconical's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyico&count_private=true&show_icons=true&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true)
-![Iconical's GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=whinee&layout=compact&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true)<br>
+<a style="text-decoration: none;" href="https://ico.is-a.dev/">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://ico.is-a.dev/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
 
 ---
 <h5 align="center"><a href="https://ico.is-a.dev/" style="color: blue; text-decoration: none;">©Iconical</a></h5>
