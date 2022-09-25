@@ -10,10 +10,10 @@
      + I still got many other things am good at..
      
 ### Connect with me: 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iconical.eth)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/babyiconical)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://dsc.gg/carena)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/babyiconical)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iconicaal)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/babyico)
 [![Website](https://skillicons.dev/icons?i=wordpress)](https://ico.is-a.dev)
 <br />
 
