@@ -33,7 +33,7 @@
  
 #### Support me and Get access to my work and projects:(Check Buymeacoffee Profile for more info) 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4BPYK4)
-
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me', '#6236b5', 'G2G4BPYK4');kofiwidget2.draw();</script> 
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=laith-daaja&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=laith-daaja&redirect=true)
