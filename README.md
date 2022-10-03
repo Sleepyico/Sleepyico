@@ -31,8 +31,8 @@
 [![Framework Used](https://skillicons.dev/icons?i=git)](https://git-scm.com/downloads)
 [![Framework Used](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
  
-#### Support me and Get access to my work and projects:(Check Buymeacoffee Profile for more info) 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4BPYK4)
+#### Support me and Get access to my work and projects: 
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbabyiconical%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/babyiconical)
 
 ---
 
