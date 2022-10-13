@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-8.89 -3.105 512 512" stroke="#fff" stroke-width="30" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#f58025" rx="69.777" stroke="none" ry="69.777" x="-8.89" y="-3.105"/>
+  <path fill="none" d="M 118.11 304.395 L 118.11 409.395 L 359.11 409.395 L 359.11 304.395" style="stroke: rgb(34, 34, 34);"/>
+  <path d="M 163.11 348.395 L 313.11 348.395 M 169.11 280.395 L 317.11 311.395 M 192.11 211.395 L 328.11 275.395 M 233.11 146.395 L 348.11 243.395 M 286.11 96.395 L 376.11 216.395"/>
+</svg>
