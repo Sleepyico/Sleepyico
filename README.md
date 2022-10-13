@@ -1,4 +1,4 @@
-<h2 align="center" style="color: #F786AE; font-weight:bold;"> Hewo, I'm Laith - aka <a href="https://babyico.xyz" style="color: #FCD0DA;">Iconical</a> 👋 </h2>
+<h3 align="center" style="color: #F786AE; font-weight:bold;"> Hewo, I'm Laith - aka <a href="https://babyico.xyz" style="color: #FCD0DA;">Iconical</a> 👋 </h3>
 <h2 align="center"> I'm a Programmer, Designer, and got Off-Speciality Skills. </h2>
 <h3> So, an Artist and a 3D Model Creator. Plus I am wokring on many projects regarding programming and desingning. Projects such as Game, Discord Bot, Programs to help and ease things to anyone. </h3> 
 
@@ -144,18 +144,8 @@ width=7% style="margin-bottom: 3px;" />
 </a>
 <a href="https://babyico.xyz/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Iconical%27s%20Most%20Used%20Languages&title_color=F786AE&text_color=FAF9F6" />
-</a> <br/><br/>
-<a href="https://wakatime.com/@iconical">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical"/>
-</a>
 </div>
 
-<br/>
-<!-- ## Recent Blog Posts   -->
-<!-- BLOG-POST-LIST:START -->
-- [Creating a discord bot on the go to be published soon!](https://dev.to/iconical/creating-a-discord-bot-on-the-go-to-be-published-soon-43jb)
-<!-- BLOG-POST-LIST:END -->  
-<br/>
 <!--START_SECTION:waka-->
 
 ```text
@@ -168,7 +158,6 @@ Other   3 hrs 21 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 
 <!--END_SECTION:waka-->
 
-<br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=radical" alt="babyico" /></a> </p>
 <div align="center">
 
@@ -176,6 +165,17 @@ Other   3 hrs 21 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 
 <a href="https://stackoverflow.com/users/17571195/iconical"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17571195&layout=*compact&theme=dark"></a>
 </div>
+
+---
+
+<br/>
+
+<!-- ## Recent Blog Posts   -->
+<!-- BLOG-POST-LIST:START -->
+- [Creating a discord bot on the go to be published soon!](https://dev.to/iconical/creating-a-discord-bot-on-the-go-to-be-published-soon-43jb)
+<!-- BLOG-POST-LIST:END -->  
+
+<br />
 
 ---
 <h3 align="center"><a href="https://babyico.xyz/" style="color: #fcd0da;">©Iconical</a></h3>
