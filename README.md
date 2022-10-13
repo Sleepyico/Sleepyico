@@ -116,14 +116,11 @@ width=7% style="margin-bottom: 3px;" />
 <a href="https://Cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" height="50" /></a> 
 </div>
 
-</td></tr></table>  
-<br/>
- 
+</td></tr></table>   
 <div align="center">
 <h3>Support me and Get access to my work and projects:</h3>
 <a href="https://patreon.babyico.xyz/"><img style="margin: 10px;" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbabyiconical%26type%3Dpatrons&style=for-the-badge"></a>
 </div>
-<br/>  
 
 ---
 
