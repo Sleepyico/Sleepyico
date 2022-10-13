@@ -15,7 +15,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_6_months
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          SHOW_TOTAL: true
+          COMMIT_MESSAGE: Updated Waka Stats by Actions ✅
+          
