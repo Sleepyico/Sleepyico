@@ -49,6 +49,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 <h5 align="center"><a href="https://ico.is-a.dev/" style="color: blue; text-decoration: none;">©Iconical</a></h5>
 
