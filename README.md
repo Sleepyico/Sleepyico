@@ -47,6 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Iconical%27s%20Most%20Used%20Languages&title_color=D2042D&text_color=FAF9F6" />
 </a>
 
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
