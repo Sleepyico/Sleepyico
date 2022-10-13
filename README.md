@@ -49,7 +49,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<a href="https://wakatime.com/@iconical">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical"/>
+</a>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ---
