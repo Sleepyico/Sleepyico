@@ -97,7 +97,7 @@ width=7% style="margin-bottom: 3px;" />
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>  
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ruby" alt="Redux" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Bash" height="50" /></a>  
-<a href="https://www.discordjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bots" alt="discordjs" height="50" /></a> 
+<a href="https://www.discord.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bots" alt="discordjs" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
