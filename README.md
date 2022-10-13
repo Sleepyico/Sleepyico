@@ -52,12 +52,7 @@ width=7% style="margin-bottom: 3px;" />
 </a>
 <a href="babyico.xyz/" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=7% style="margin-bottom: 3px;" />
-</a>
-
-</div>  
- 
-
-<br/>  
+</a></div>    
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
