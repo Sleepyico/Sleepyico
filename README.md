@@ -16,6 +16,8 @@
      + Websites in html, css, js, react, and etc...
      + Discord bots in JavaScript aka DiscordJS
      + Games in C++ and some games in C#. Learning Lua
+     + Extra: I sell finished projects like DC Bots, websites, and etc. 
+                        <br>you can find them in my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
 
 <br/>  
 
