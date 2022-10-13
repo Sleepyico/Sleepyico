@@ -49,6 +49,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a discord bot on the go to be published soon!](https://dev.to/iconical/creating-a-discord-bot-on-the-go-to-be-published-soon-43jb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
