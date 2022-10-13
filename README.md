@@ -152,8 +152,8 @@ width=7% style="margin-bottom: 3px;" />
 
 <br/>
 <!-- ## Recent Blog Posts   -->
-<!-- BLOG-POST-LIST:START -->  
- 
+<!-- BLOG-POST-LIST:START -->
+- [Creating a discord bot on the go to be published soon!](https://dev.to/iconical/creating-a-discord-bot-on-the-go-to-be-published-soon-43jb)
 <!-- BLOG-POST-LIST:END -->  
 <br/>
 <!--START_SECTION:waka-->
