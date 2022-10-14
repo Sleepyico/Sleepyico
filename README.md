@@ -2,12 +2,12 @@
 <h2 align="center"> A 20 years old Programmer, Developer, and Designer </h2>
 <!-- 
 <h3 align="center">  </h3> -->
-<p align="center">
+<!-- <p align="center">
 <a href"https://twitter.com/intent/follow?screen_name=babyiconical"><img src="https://img.shields.io/twitter/follow/babyiconical?color=F786AE&label=Follow%20Laith&logo=TWITTER&logoColor=f786ae&style=flat-square"></a>
 <a href"https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=f786ae&style=flat-square&label=Profile Views"></a>
 <a href"https://dsc.gg/devarena"><img src="https://img.shields.io/discord/948548443440312320?color=f786ae&label=Chat&logo=Discord&logoColor=f786ae&style=flat-square"></a>
 <a href"https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=f786ae&label=Twitch&logo=Twitch&logoColor=f786ae&style=flat-square"></a>
-</p>
+</p> -->
   
 - 🔭 I’m currently working on websites and discord bots.<br>
 
