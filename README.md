@@ -1,7 +1,18 @@
-<h3 align="center" style="color: #F786AE; font-weight:bold;"> Hewo, I'm Laith - aka <a href="https://babyico.xyz" style="color: #FCD0DA;">Iconical</a> 👋 </h3>
-<h2 align="center"> I'm a Programmer, Designer, and got Off-Speciality Skills. </h2>
-<h3> So, an Artist and a 3D Model Creator. Plus I am wokring on many projects regarding programming and desingning. Projects such as Game, Discord Bot, Programs to help and ease things to anyone. </h3> 
+<p align="center">
 
+  </p>
+  
+<h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.xyz">Iconical</a> 👋 </h3>
+<h2 align="center"> A 20 years old Programmer, Developer, and Designer </h2>
+<!-- 
+<h3 align="center">  </h3> -->
+<p align="center">
+<a href""><img src="https://img.shields.io/twitter/follow/babyiconical?color=F786AE&label=Follow%20Laith&logo=TWITTER&logoColor=f786ae&style=flat-square"></a>
+<a href""><img src="https://komarev.com/ghpvc/?username=babyico&color=f786ae&style=flat-square&label=Profile Views"></a>
+<a href""><img src="https://img.shields.io/discord/948548443440312320?color=f786ae&label=Chat&logo=Discord&logoColor=f786ae&style=flat-square"></a>
+<a href""><img src="https://img.shields.io/twitch/status/babyiconical?color=f786ae&label=Twitch&logo=Twitch&logoColor=f786ae&style=flat-square"></a>
+</p>
+  
 - 🔭 I’m currently working on websites and discord bots.<br>
 
 - 🌱 I’m currently learning and improving web designing, app development, softwares & games development, and languages(js,c++,c#,etc...).<br>
@@ -13,16 +24,15 @@
 - ⚡ My quote is "Never interrupt your enemy when he is making a mistake"
   
 - 🎨 I know creating and maintaining websites, discord bots, API matters, 3D models, blender designs, games, softwares and etc...<br>
-     + Websites in html, css, js, react, and etc...
-     + Discord bots in JavaScript aka DiscordJS
-     + Games in C++ and some games in C#. Learning Lua
      + Extra: I sell finished projects like DC Bots, websites, and etc. 
                         <br>you can find them in my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
+     + Extra: You can get access to my work and projects by supporting me
+             <br>on patreon. Get snippets or files for DC Bots, web, etc... here [Patreon.babyico.xyz](https://Patreon.babyico.xyz)
 
 <br/>  
 
 
-## Connect with me  
+## Connect with me 🌸 
 <div align="center">
 <a href="https://instagram.com/babyiconical" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/instagram.svg alt=instagram width=7% style="margin-bottom: 5px;" />
@@ -56,7 +66,7 @@ width=7% style="margin-bottom: 3px;" />
 <img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=7% style="margin-bottom: 3px;" />
 </a></div>    
 
-## My Skill Set  
+## My Skill 💢
 <table><tr><td valign="top" width="33%">
 
 
@@ -129,8 +139,8 @@ width=7% style="margin-bottom: 3px;" />
   </div>
 
 ---
-
-## Laith's Stats  
+ 
+## My Stats 🔱
 <br>
 <div align="center">
 <a style="text-decoration: none;" href="https://babyico.xyz/">
@@ -139,37 +149,18 @@ width=7% style="margin-bottom: 3px;" />
 <a href="https://babyico.xyz/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Iconical%27s%20Most%20Used%20Languages&title_color=F786AE&text_color=FAF9F6" />
 </div>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 14 April 2022 - To: 13 October 2022
-
-Total Time: 3 hrs 21 mins
-
-Other   3 hrs 21 mins   █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=radical" alt="babyico" /></a> </p>
-<div align="center">
-
-<a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=F786AE&style=for-the-badge&label=Views"></a>
-
-<a href="https://stackoverflow.com/users/17571195/iconical"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17571195&layout=*compact&theme=dark"></a>
-</div>
 
 ---
-
-<br/>
-
+  
+## My Blogs 📚
 <!-- ## Recent Blog Posts   -->
 <!-- BLOG-POST-LIST:START -->
 - [Creating a discord bot on the go to be published soon!](https://dev.to/iconical/creating-a-discord-bot-on-the-go-to-be-published-soon-43jb)
 <!-- BLOG-POST-LIST:END -->  
-
-<br />
-
+<br>
+  
 ---
-<h3 align="center"><a href="https://babyico.xyz/" style="color: #fcd0da;">©Iconical</a></h3>
+  
+<h4 align="center"><a href="https://github.com/babyico"><img src="https://img.shields.io/github/license/babyico/babyico?color=bada55&logo=unlicense&logoColor=bada55&style=for-the-badge"></a>
+  <br><a href="https://babyico.xyz/">©Iconical</a></h4>
