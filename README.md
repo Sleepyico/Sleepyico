@@ -1,7 +1,3 @@
-<p align="center">
-
-  </p>
-  
 <h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.xyz">Iconical</a> 👋 </h3>
 <h2 align="center"> A 20 years old Programmer, Developer, and Designer </h2>
 <!-- 
