@@ -22,8 +22,8 @@
 - 🎨 I know creating and maintaining websites, discord bots, API matters, 3D models, blender designs, games, softwares and etc...<br>
      + Extra: I sell finished projects like DC Bots, websites, and etc. 
                         <br>you can find them in my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
-     + Extra: You can get access to my work and projects by supporting me
-             <br>on patreon. Get snippets or files for DC Bots, web, etc... here [Patreon.babyico.xyz](https://Patreon.babyico.xyz)
+     + Extra: You can get access to my work and projects such as
+             <br>snippets or files for DC Bots, web, apps, etc... here -> [Patreon.babyico.xyz](https://Patreon.babyico.xyz)
 
 <br/>  
 
@@ -31,35 +31,35 @@
 ## Connect with me 🌸 
 <div align="center">
 <a href="https://instagram.com/babyiconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/instagram.svg alt=instagram width=7% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/instagram.svg alt=instagram width=5% style="margin-bottom: 5px;" />
 </a>  
-<a href="https://twitter.com/babyiconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/twitter.svg alt=twitter width=7% style="margin-bottom: 5px;" />
+<a href="https://twitter.com/intent/follow?screen_name=babyiconical" target="_blank">
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/twitter.svg alt=twitter width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://dsc.gg/devarena" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/discord.svg alt=discord width=7%width=7% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/discord.svg alt=discord width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/iconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/devto-v2.svg alt=devto width=7%
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/devto-v2.svg alt=devto width=5%
 width=7% style="margin-bottom: 3px;" />
 </a>
 <a href="https://linkedin.com/in/babyico" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/linkedin.svg alt=linkedin width=7% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/linkedin.svg alt=linkedin width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://babyico.medium.com/" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/medium.svg alt=medium width=7% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/medium.svg alt=medium width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.hackerrank.com/iconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/hackerrank.svg alt=hackerrank width=7% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/hackerrank.svg alt=hackerrank width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/17571195" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/stackoverflow.svg alt=stackoverflow width=7% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/stackoverflow.svg alt=stackoverflow width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="behance.net/iconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/behance.svg alt=behance width=7% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/behance.svg alt=behance width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="babyico.xyz/" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=7% style="margin-bottom: 3px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=5% style="margin-bottom: 3px;" />
 </a></div>    
 
 ## My Skills 💢
