@@ -1,3 +1,5 @@
+<div align="center"><a href="https://github.com/babyico"><img align="center" src="https://komarev.com/ghpvc/?username=babyico&color=f786ae&style=flat-square&label=Profile Views"></a></div>
+
 <h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.xyz">Iconical</a> 👋 </h3>
 <h2 align="center"> A 20 years old Programmer, Developer, and Designer </h2>
 <!-- 
