@@ -1,9 +1,7 @@
-<div align="center"><a href="https://github.com/babyico"><img align="center" src="https://komarev.com/ghpvc/?username=babyico&color=f786ae&style=flat-square&label=Profile Views"></a></div>
-
 <h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.xyz">Iconical</a> 👋 </h3>
 <h2 align="center"> A 20 years old Programmer, Developer, and Designer </h2>
-<!-- 
-<h3 align="center">  </h3> -->
+
+<div align="center"> <a href="https://github.com/babyico"><img align="center" src="https://komarev.com/ghpvc/?username=babyico&color=f786ae&style=flat-square&label=Profile Views"></a> </div>
 <!-- <p align="center">
 <a href"https://twitter.com/intent/follow?screen_name=babyiconical"><img src="https://img.shields.io/twitter/follow/babyiconical?color=F786AE&label=Follow%20Laith&logo=TWITTER&logoColor=f786ae&style=flat-square"></a>
 <a href"https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=f786ae&style=flat-square&label=Profile Views"></a>
