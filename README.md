@@ -155,6 +155,19 @@
 <p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
 
 ---
+
+<!--START_SECTION:waka-->
+```text
+```
+
+```text
+```
+
+```text
+```
+<!--END_SECTION:waka-->
+
+---
   
 ## My Blogs 📚
 <!-- ## Recent Blog Posts   -->
