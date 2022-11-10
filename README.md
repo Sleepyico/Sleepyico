@@ -157,14 +157,6 @@
 ---
 
 <!--START_SECTION:waka-->
-```text
-```
-
-```text
-```
-
-```text
-```
 <!--END_SECTION:waka-->
 
 ---
