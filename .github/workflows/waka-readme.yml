@@ -14,5 +14,13 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.LAITH_TOKEN }}
-          SHOW_OS: "False"
           SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_EDITORS: "False" # VS CODE
+          SHOW_OS: "False" # I only use Windows and Arch
+          SHOW_LOC_CHART: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_UPDATED_DATE: "False"
+          COMMIT_MESSAGE: "Automated Coding Activity Update :white_check_mark:"
