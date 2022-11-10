@@ -129,11 +129,9 @@
 ---
 
 <div align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=laith-daaja&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=laith-daaja&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
-    </a>
-    <img src="https://discord.c99.nl/widget/theme-3/362301055976996864.png">
+    <a href="https://discord.com/users/362301055976996864"><img src="https://lanyard.cnrad.dev/api/362301055976996864?idleMessage=Idling+UwU!+You+can+text+me+tho"></a>
   </div>
+  
 
 ---
  
