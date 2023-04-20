@@ -25,7 +25,7 @@
      + Extra: I sell finished projects like DC Bots, websites, and etc. 
                         <br>you can find them in my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
      + Extra: You can get access to my work and projects such as
-             <br>snippets or files for DC Bots, web, apps, etc... here -> [Patreon.babyico.xyz](https://Patreon.babyico.xyz)
+             <br>snippets or files, here -> [Support Me](https://ko-fi.com/iconical)
 
 <br/>  
 
@@ -123,7 +123,7 @@
 </td></tr></table>   
 <div align="center">
 <h3>Support me and Get access to my work and projects:</h3>
-<a href="https://patreon.babyico.xyz/"><img style="margin: 10px;" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbabyiconical%26type%3Dpatrons&style=for-the-badge"></a>
+<a href="https://ko-fi.com/iconical"><img style="margin: 10px;" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </div>
 
 ---
@@ -140,18 +140,18 @@
 <br>
 <div align="center">
 <a href="https://babyico.xyz/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true&custom_title=Laith%27s%20Stats&title_color=F786AE&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=F786AE&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
 </a>
 
 <a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=babyico&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=F786AE&fire=F786AE&currStreakNum=FFFFFF&sideNums=F786AE&currStreakLabel=F786AE&sideLabels=FCD0DA&dates=FFFFFF"> </a>
 
 <a href="https://babyico.xyz/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=F786AE&text_color=FAF9F6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=F786AE&text_color=FAF9F6" />
 </a>
  
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=0D1117&hide_border=true&title_color=F786AE&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=F786AE&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
 </div>
 <p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
 
