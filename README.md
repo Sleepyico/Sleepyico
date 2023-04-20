@@ -130,7 +130,6 @@
 
 <div align="center">
     <a href="https://discord.com/users/362301055976996864"><img src="https://lanyard.cnrad.dev/api/362301055976996864?idleMessage=Idling+UwU!+You+can+text+me+tho"></a>
-    <a href="https://discord.com/users/795557344334970900"><img src="https://lanyard.cnrad.dev/api/795557344334970900?idleMessage=Idling+UwU!+You+can+text+me+tho"></a>
   </div>
   
 
@@ -154,21 +153,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=F786AE&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
 </div>
 <p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
-
----
-## Time
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-  
-## My Blogs 📚
-<!-- ## Recent Blog Posts   -->
-<!-- BLOG-POST-LIST:START -->
-- [Creating a discord bot on the go to be published soon!](https://dev.to/iconical/creating-a-discord-bot-on-the-go-to-be-published-soon-43jb)
-<!-- BLOG-POST-LIST:END -->  
-<br>
   
 ---
   
