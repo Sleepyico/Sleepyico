@@ -1,5 +1,5 @@
 <h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.xyz">Iconical</a> 👋 </h3>
-<h2 align="center"> A 21 years old Programmer, Developer, and Designer </h2>
+<h2 align="center"> A 21 years old Full-Stack Developer and Designer </h2>
 
 <div align="center"> <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=f786ae&style=flat-square&label=Profile Views"></a> 
 <a href"https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=f786ae&label=Twitch&logo=Twitch&logoColor=f786ae&style=flat-square"></a>
