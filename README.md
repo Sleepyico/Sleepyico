@@ -130,7 +130,7 @@
 
 <div align="center">
     <a href="https://discord.com/users/362301055976996864"><img src="https://lanyard.cnrad.dev/api/362301055976996864?idleMessage=Idling+UwU!+You+can+text+me+tho"></a>
-    <a href="https://discord.com/users/362301055976996864"><img src="https://lanyard.cnrad.dev/api/362301055976996864?idleMessage=Idling+UwU!+You+can+text+me+tho"></a>
+    <a href="https://discord.com/users/362301055976996864"><img src="https://lanyard.cnrad.dev/api/795557344334970900?idleMessage=Idling+UwU!+You+can+text+me+tho"></a>
   </div>
   
 
