@@ -1,14 +1,15 @@
 <h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.xyz">Iconical</a> 👋 </h3>
 <h2 align="center"> A 21 years old Full-Stack Developer and Designer </h2>
 
-<div align="center"> <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=f786ae&style=flat-square&label=Profile Views"></a> 
-<a href"https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=f786ae&label=Twitch&logo=Twitch&logoColor=f786ae&style=flat-square"></a>
+<div align="center"> <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=e5445c&style=flat-square&label=Profile Views"></a> 
+<a href"https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=e5445c&label=Twitch&logo=Twitch&logoColor=e5445c&style=flat-square"></a>
 </div>
 
 <div align="center">
   <img src="./imgs/rias-300x500.png" width="300" align="right" />
   
   <div align="left">  
+    
 - 🔭 I’m currently working on games and discord bots.<br>
 
 - 🌱 I’m currently learning and improving web designing, games development, and languages(js,c++,...).<br>
@@ -19,6 +20,7 @@
   
 - 🎨 I know creating and maintaining websites, discord bots, games, and etc...<br>
      + You can get access to my work and projects -> [Support Me](https://ko-fi.com/iconical) or view my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
+    
 
   </div>
 </div>
@@ -58,6 +60,9 @@
 <a href="babyico.xyz/" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=4.5% style="margin-bottom: 3px;" />
 </a></div>    
+<div align="center">
+<a href="https://ko-fi.com/iconical"><img style="margin: 10px;" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+</div>
 
 ## My Skills 💢
 <table><tr><td valign="top" width="33%">
@@ -117,10 +122,6 @@
 </div>
 
 </td></tr></table>   
-<div align="center">
-<h3>Support me and Get access to my work and projects:</h3>
-<a href="https://ko-fi.com/iconical"><img style="margin: 10px;" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
-</div>
 
 ---
 
@@ -135,18 +136,18 @@
 <br>
 <div align="center">
 <a href="https://babyico.xyz/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=F786AE&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=e5445c&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
 </a>
 
 <a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=babyico&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=F786AE&fire=F786AE&currStreakNum=FFFFFF&sideNums=F786AE&currStreakLabel=F786AE&sideLabels=FCD0DA&dates=FFFFFF"> </a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=babyico&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=e5445c&fire=e5445c&currStreakNum=FFFFFF&sideNums=e5445c&currStreakLabel=e5445c&sideLabels=FCD0DA&dates=FFFFFF"> </a>
 
 <a href="https://babyico.xyz/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=F786AE&text_color=FAF9F6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=e5445c&text_color=FAF9F6" />
 </a>
  
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=F786AE&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=e5445c&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
 </div>
 <p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
   
