@@ -31,7 +31,7 @@
 
 
 <h2>
-<div align="center">
+<div align="left">
 <img src="./imgs/rias-connectme.png" width="350" />
 </div>
 </h2>
