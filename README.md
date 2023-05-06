@@ -29,7 +29,11 @@
 <br/>  
 
 
-<h2> Connect with me 🌸 </h2>
+<h2>
+<div align="left">
+<img src="./imgs/rias-connectme.png" width="350" />
+</div>
+</h2>
 <div align="center">
 <a href="https://instagram.com/babyiconical" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/instagram.svg alt=instagram width=5% style="margin-bottom: 5px;" />
@@ -60,15 +64,20 @@
 </a>
 <a href="babyico.xyz/" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=5% style="margin-bottom: 3px;" />
-</a></div>    
+</a></div>  
 <div align="center">
 <a href="https://ko-fi.com/iconical"><img style="margin: 10px;" src="./imgs/kofi-support.svg"></a>
 </div>
 
-## My Skills 💢
+<br>
+
+<h2>
+<div align="left">
+<img src="./imgs/rias-aboutme.png" width="350" /></h2>
+</div>
+</h2>
+
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -133,7 +142,10 @@
 
 ---
  
-## My Stats 🔱
+<div align="left">
+<img src="./imgs/kakegurui-mystats.png" width="350" /></h2>
+</div>
+<br>
 <br>
 <div align="center">
 <a href="https://babyico.xyz/">
