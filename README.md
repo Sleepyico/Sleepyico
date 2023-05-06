@@ -118,8 +118,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps & Engines  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>  
@@ -140,7 +138,11 @@
 <img src="./imgs/kakegurui-mystats.png" width="350" /></h2>
 </div>
 <br>
+
+<details open>
+<summary>Check My Stats</summary>
 <br>
+
 <div align="center">
 <a href="https://babyico.xyz/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=e5445c&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
@@ -158,6 +160,8 @@
 </div>
 <p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=oldie&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
   
+</details>
+
 ---
 
 <div align="center">
