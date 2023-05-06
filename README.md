@@ -3,11 +3,12 @@
 
 <div align="center"> <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=560f1a&style=flat-square&label=Profile Views"></a> 
 <a href"https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=e5445c&label=Twitch&logo=Twitch&logoColor=560f1a&style=flat-square"></a>
+<div align="right">
+  <img src="./imgs/rias-r.png" width="200" align="right" />
+  </div>
 </div>
 
-<div align="center">
-  <img src="./imgs/rias-r.png" width="150" align="right" />
-  
+
   <div align="left">  
     
 - 🔭 I’m currently working on games and discord bots.<br>
