@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="./imgs/rias-300x500.png" align="right" />
+  <img src="./imgs/rias-r.png" align="right" />
   
   <div align="left">  
     
