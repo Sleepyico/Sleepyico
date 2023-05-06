@@ -134,13 +134,6 @@
 </td></tr></table>   
 
 ---
-
-<div align="center">
-    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=560f1a&gradient=e5445c&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
-  </div>
-  
-
----
  
 <div align="left">
 <img src="./imgs/kakegurui-mystats.png" width="350" /></h2>
@@ -163,6 +156,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=e5445c&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
 </div>
 <p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=oldie&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
+  
+---
+
+<div align="center">
+    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=560f1a&gradient=e5445c&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
+  </div>
   
 ---
   
