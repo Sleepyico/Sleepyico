@@ -19,7 +19,7 @@
 - 👨‍💻 All of My Upcoming and Current Projects are and will be available <a href="https://babyico.xyz/projects" style="color: #F786AE; font-weight: bold;">Here</a> <br>
   
 - 🎨 I know creating and maintaining websites, discord bots, games, and etc...<br>
-     + You can get access to my work and projects -> [Support Me](https://ko-fi.com/iconical) or view my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
+     + You can get access to my work and projects -> [Support Me](https://ko-fi.com/iconical) <br/> or view my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
     
 
   </div>
@@ -126,7 +126,7 @@
 ---
 
 <div align="center">
-    <a href="https://discord.com/users/362301055976996864"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=7C1A16&waveSpotifyColor=310A09&gradient=FFF&imgStyle=square&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
+    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=0d1117&gradient=e5445c&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
   </div>
   
 
