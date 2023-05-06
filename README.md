@@ -31,11 +31,11 @@
 
 
 <h2>
-<div align="left">
+<div align="center">
 <img src="./imgs/rias-connectme.png" width="350" />
 </div>
 </h2>
-<div align="left">
+<div align="center">
 <a href="https://instagram.com/babyiconical" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/instagram.svg alt=instagram width=5% style="margin-bottom: 5px;" />
 </a>  
@@ -66,7 +66,7 @@
 <a href="babyico.xyz/" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=5% style="margin-bottom: 3px;" />
 </a></div>  <br>
-<div align="left">
+<div align="center">
 <a href="https://ko-fi.com/iconical"><img style="margin: 10px;" src="./imgs/kofi-support.svg"></a>
 </div>
 
