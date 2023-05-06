@@ -5,29 +5,28 @@
 <a href"https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=f786ae&label=Twitch&logo=Twitch&logoColor=f786ae&style=flat-square"></a>
 </div>
 
+<div align="center">
   <img src="./imgs/rias-r.png" width="300" align="right" />
   
-    
-- 🔭 I’m currently working on websites and discord bots.<br>
+  <div align="left">  
+- 🔭 I’m currently working on games and discord bots.<br>
 
-- 🌱 I’m currently learning and improving web designing, app development, softwares & games development, and languages(js,c++,c#,etc...).<br>
+- 🌱 I’m currently learning and improving web designing, games development, and languages(js,c++,...).<br>
   
-- 🥅 2022-2023 Goals: Contribute and Collaborate more to Open Source projects or any project and be helpful to community. As well as Learn more languages.
+- 🥅 2022-2023 Goals: Contribute and Collaborate more to Open Source projects or any project and be helpful to community.<br>
 
-- 👨‍💻 All of My Upcoming and Current Projects are and will be available <a href="https://babyico.xyz/" style="color: #F786AE; font-weight: bold;">Here</a>
-
-- ⚡ My quote is "Never interrupt your enemy when he is making a mistake"
+- 👨‍💻 All of My Upcoming and Current Projects are and will be available <a href="https://babyico.xyz/projects" style="color: #F786AE; font-weight: bold;">Here</a> <br>
   
-- 🎨 I know creating and maintaining websites, discord bots, API matters, 3D models, blender designs, games, softwares and etc...<br>
-     + Extra: I sell finished projects like DC Bots, websites, and etc. 
-                        <br>you can find them in my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
-     + Extra: You can get access to my work and projects such as
-             <br>snippets or files, here -> [Support Me](https://ko-fi.com/iconical)
+- 🎨 I know creating and maintaining websites, discord bots, games, and etc...<br>
+     + You can get access to my work and projects -> [Support Me](https://ko-fi.com/iconical) or view my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
+
+  </div>
+</div>
 
 <br/>  
 
 
-## Connect with me 🌸 
+<h2> Connect with me 🌸 </h2>
 <div align="center">
 <a href="https://instagram.com/babyiconical" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/instagram.svg alt=instagram width=6% style="margin-bottom: 5px;" />
