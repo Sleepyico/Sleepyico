@@ -20,6 +20,7 @@
   
 - 🎨 I know creating and maintaining websites, discord bots, games, and etc...<br>
      + You can get access to my work and projects -> [Support Me](https://ko-fi.com/iconical) <br/> or view my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
+
     
 
   </div>
