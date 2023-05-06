@@ -149,9 +149,9 @@
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=e5445c&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
 </div>
-<p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
+<p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=oldie&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
   
 ---
   
-<h4 align="center"><a href="https://github.com/babyico"><img src="https://img.shields.io/github/license/babyico/babyico?color=bada55&logo=unlicense&logoColor=bada55&style=for-the-badge"></a>
+<h4 align="center"><a href="https://github.com/babyico"><img src="https://img.shields.io/github/license/babyico/babyico?color=e5445c&logo=unlicense&logoColor=e5445c&style=for-the-badge"></a>
   <br><a href="https://babyico.xyz/">©Iconical</a></h4>
