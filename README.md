@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="./imgs/rias-300x500.png" width="300" height="480" align="right" />
+  <img src="./imgs/rias-300x500.png" align="right" />
   
   <div align="left">  
     
@@ -31,34 +31,34 @@
 <h2> Connect with me 🌸 </h2>
 <div align="center">
 <a href="https://instagram.com/babyiconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/instagram.svg alt=instagram width=4.5% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/instagram.svg alt=instagram width=5% style="margin-bottom: 5px;" />
 </a>  
 <a href="https://twitter.com/intent/follow?screen_name=babyiconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/twitter.svg alt=twitter width=4.5% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/twitter.svg alt=twitter width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://dsc.gg/devarena" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/discord.svg alt=discord width=4.5% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/discord.svg alt=discord width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/iconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/devto-v2.svg alt=devto width=4.5% style="margin-bottom: 3px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/devto-v2.svg alt=devto width=5% style="margin-bottom: 3px;" />
 </a>
 <a href="https://linkedin.com/in/babyico" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/linkedin.svg alt=linkedin width=4.5% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/linkedin.svg alt=linkedin width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://babyico.medium.com/" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/medium.svg alt=medium width=4.5% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/medium.svg alt=medium width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.hackerrank.com/iconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/hackerrank.svg alt=hackerrank width=4.5% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/hackerrank.svg alt=hackerrank width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/17571195" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/stackoverflow.svg alt=stackoverflow width=4.5% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/stackoverflow.svg alt=stackoverflow width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="behance.net/iconical" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/behance.svg alt=behance width=4.5% style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/behance.svg alt=behance width=5% style="margin-bottom: 5px;" />
 </a>
 <a href="babyico.xyz/" target="_blank">
-<img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=4.5% style="margin-bottom: 3px;" />
+<img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=5% style="margin-bottom: 3px;" />
 </a></div>    
 <div align="center">
 <a href="https://ko-fi.com/iconical"><img style="margin: 10px;" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
