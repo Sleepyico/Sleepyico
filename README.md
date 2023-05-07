@@ -164,10 +164,17 @@
 
 ---
 
+<details open>
+<summary>Check My Activity</summary>
+<br>
 <div align="center">
     <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=560f1a&gradient=e5445c&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
      <img src="https://discordapp.com/api/guilds/484502176245350410/widget.png?style=banner3" alt="Discord Banner 2"/>
   </div>
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=a62b37&bar_color_cover=true" /></a>
+ </div>
+ </details>
   
 ---
   
