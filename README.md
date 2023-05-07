@@ -1,8 +1,8 @@
 <h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.xyz">Iconical</a> 👋 </h3>
-<!-- <h2 align="center"> A 21 years old Full-Stack Developer and Designer </h2> -->
-<h2 align="center"> 
+<h2 align="center"> A 21 years old Full-Stack Developer and Designer </h2>
+<!-- <h2 align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=10000&color=E5445C&vCenter=true&width=725&lines=A+21+years+old+Full-Stack+Developer+and+Designer" alt="Typing SVG" /></a>
-</h2>
+</h2> -->
 
 
 <div align="center"> <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=560f1a&style=flat-square&label=Profile Views"></a> 
