@@ -174,10 +174,10 @@
      <img src="https://discordapp.com/api/guilds/484502176245350410/widget.png?style=banner3" alt="Discord Banner 2"/>
   </div>
   <details close>
-  <summary>Check more activities</summary>
+  <summary>Check more from me</summary>
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=a62b37&bar_color_cover=true" /></a>
   <a href="https://stackoverflow.com/users/17571195/iconical"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17571195&theme=dark" /></a>
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=a62b37&bar_color_cover=true" /></a>
   <a href="https://github.com/babyico"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Laith&quote=Never%20interrupt%20your%20enemies%20when%20they%20are%20making%20a%20mistake" /></a>
   </details>
  </div>
