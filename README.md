@@ -1,5 +1,9 @@
 <h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.xyz">Iconical</a> 👋 </h3>
-<h2 align="center"> A 21 years old Full-Stack Developer and Designer </h2>
+<!-- <h2 align="center"> A 21 years old Full-Stack Developer and Designer </h2> -->
+<h2 align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=10000&color=E5445C&vCenter=true&width=725&lines=A+21+years+old+Full-Stack+Developer+and+Designer" alt="Typing SVG" /></a>
+</h2>
+
 
 <div align="center"> <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=560f1a&style=flat-square&label=Profile Views"></a> 
 <a href"https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=e5445c&label=Twitch&logo=Twitch&logoColor=560f1a&style=flat-square"></a>
@@ -174,6 +178,7 @@
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=laith-daaja&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=a62b37&bar_color_cover=true" /></a>
   <a href="https://stackoverflow.com/users/17571195/iconical"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17571195&theme=dark" /></a>
+  <a href="https://github.com/babyico"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Laith&quote=Never%20interrupt%20your%20enemies%20when%20they%20are%20making%20a%20mistake" /></a>
   </details>
  </div>
   
