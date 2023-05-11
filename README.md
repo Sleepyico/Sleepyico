@@ -164,15 +164,22 @@
 </div>
 <p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=oldie&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
   
+  <div align="center">
+   <a href="https://leetcode.com/iconical/"><img src="https://leetcard.jacoblin.cool/iconical?theme=dark&font=Baloo%202&ext=heatmap"></a> 
+  </div>  
+  
 </details>
 
 ---
 
 <br>
+
 <div align="center">
     <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=560f1a&gradient=e5445c&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
      <img src="https://discordapp.com/api/guilds/484502176245350410/widget.png?style=banner3" alt="Discord Banner 2"/>
   </div>
+  
+  
   <details close>
   <summary>Check more from me</summary>
 <div align="center">
