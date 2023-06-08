@@ -64,10 +64,10 @@
 <a href="https://stackoverflow.com/users/17571195" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/stackoverflow.svg alt=stackoverflow width=6% style="margin-bottom: 5px;" />
 </a>
-<a href="behance.net/iconical" target="_blank">
+<a href="https://behance.net/iconical" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/c737ff3e9bda7d9bdfbf2b5645f210afcb76d026/logos/Social/behance.svg alt=behance width=6% style="margin-bottom: 5px;" />
 </a>
-<a href="babyico.xyz/" target="_blank">
+<a href="https://babyico.xyz/" target="_blank">
 <img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=6% style="margin-bottom: 3px;" />
 </a></div>  <br>
 <div align="center">
