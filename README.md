@@ -71,7 +71,7 @@
 <img src=https://raw.githubusercontent.com/babyico/babyico/ba8964dddc0127552f6d2e1ee46c54772894d9d3/logos/Social/website-pink.svg alt=website width=6% style="margin-bottom: 3px;" />
 </a></div>  <br>
 <div align="center">
-<a href="https://ko-fi.com/iconical"><img style="margin: 10px;" src="./imgs/kofi-support.svg"></a>
+<a href="https://patreon.com/babyiconical"><img style="margin: 5px; width: 220px;" src="./imgs/footer-patreon.png"></a>
 </div>
 
 <br>
