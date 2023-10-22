@@ -5,8 +5,9 @@
 </h2> -->
 
 
-<div align="center"> <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=560f1a&style=flat-square&label=Profile Views"></a> 
-<a href"https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=e5445c&label=Twitch&logo=Twitch&logoColor=560f1a&style=flat-square"></a>
+<div align="center"> 
+<a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=560f1a&style=flat-square&label=Profile Views" /></a> 
+<a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=e5445c&label=Twitch&logo=Twitch&logoColor=560f1a&style=flat-square" /></a>
 <div align="right">
   <img src="./imgs/rias-r.png" width="180" align="right" />
   </div>
@@ -24,7 +25,7 @@
 - 👨‍💻 All of My Upcoming and Current Projects are and will be available <a href="https://babyico.xyz/projects" style="color: #560f1a; font-weight: bold;">Here</a> <br>
   
 - 🎨 I know creating and maintaining websites, discord bots, games, and etc...<br>
-     + You can get access to my work and projects -> [Support Me](https://ko-fi.com/iconical) <br/> or view my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
+     + You can get access to my work and projects -> [Support Me](https://patreon.com/babyiconical) <br/> or view my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
 
     
 
