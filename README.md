@@ -1,31 +1,31 @@
 <h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.xyz">Iconical</a> 👋 </h3>
 <h2 align="center"> A 21 years old Full-Stack Developer and Designer </h2>
 <!-- <h2 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=10000&color=E5445C&vCenter=true&width=725&lines=A+21+years+old+Full-Stack+Developer+and+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=10000&color=5D3E87&vCenter=true&width=725&lines=A+21+years+old+Full-Stack+Developer+and+Designer" alt="Typing SVG" /></a>
 </h2> -->
 
 
 <div align="center"> 
-<a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=560f1a&style=flat-square&label=Profile%20Views" /></a> 
-<a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=e5445c&label=Twitch&logo=Twitch&logoColor=560f1a&style=flat-square" /></a>
+<a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=5D3E87&style=flat-square&label=Profile%20Views" /></a> 
+<a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=5D3E87&label=Twitch&logo=Twitch&logoColor=392653&style=flat-square" /></a>
 <div align="right">
-  <img src="./imgs/rias-r.png" width="180" align="right" />
+  <img src="./imgs/ghostface.png" width="180" align="right" />
   </div>
 </div>
 
 
   <div align="left">  
     
-- 🔭 I’m currently working on games and discord bots.<br>
+- 🔭 Currently working on personal projects.<br>
 
-- 🌱 I’m currently learning and improving web designing, games development, and languages(js,c++,...).<br>
+- 🌱 Learning and improving into a Full-stack development.<br>
   
-- 🥅 2022-2023 Goals: Contribute and Collaborate more to Open Source projects or any project and be helpful to community.<br>
+- 🥅 2023-2024 Goals: Contribute more into publc and self projects.<br>
 
-- 👨‍💻 All of My Upcoming and Current Projects are and will be available <a href="https://babyico.xyz/projects" style="color: #560f1a; font-weight: bold;">Here</a> <br>
+- 👨‍💻 My upcoming and current projects are and will be listed on my website.<br>
   
-- 🎨 I know creating and maintaining websites, discord bots, games, and etc...<br>
-     + You can get access to my work and projects -> [Support Me](https://patreon.com/babyiconical) <br/> or view my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
+- 🎨 I know creating and maintaining Games, websites, discord bots, and etc...<br>
+     + You can get access to my work on [Patreon](https://patreon.com/babyiconical) <br/> or view my [Shop](https://iconical.gumroad.com)
 
     
 
@@ -37,7 +37,7 @@
 
 <h2>
 <div align="left">
-<img src="./imgs/rias-connectme.png" width="350" />
+<img src="./imgs/connectwithme.png" width="350" />
 </div>
 </h2>
 <div align="center">
@@ -79,7 +79,7 @@
 
 <h2>
 <div align="left">
-<img src="./imgs/rias-aboutme.png" width="350" /></h2>
+<img src="./imgs/myskills.png" width="350" /></h2>
 </div>
 </h2>
 
@@ -140,7 +140,7 @@
 ---
  
 <div align="left">
-<img src="./imgs/kakegurui-mystats.png" width="350" /></h2>
+<img src="./imgs/mystats.png" width="350" /></h2>
 </div>
 <br>
 
@@ -150,18 +150,18 @@
 
 <div align="center">
 <a href="https://babyico.xyz/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=e5445c&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=5D3E87&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
 </a>
 
 <a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=babyico&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=e5445c&fire=e5445c&currStreakNum=FFFFFF&sideNums=e5445c&currStreakLabel=e5445c&sideLabels=FCD0DA&dates=FFFFFF"> </a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=babyico&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=5D3E87&fire=5D3E87&currStreakNum=FFFFFF&sideNums=5D3E87&currStreakLabel=5D3E87&sideLabels=FCD0DA&dates=FFFFFF"> </a>
 
 <a href="https://babyico.xyz/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=e5445c&text_color=FAF9F6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=5D3E87&text_color=FAF9F6" />
 </a>
  
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=e5445c&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=5D3E87&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
 </div>
 <p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=oldie&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
   
@@ -178,7 +178,7 @@
 <details close>
   <summary>🧠 Check Activities</summary>
 <div align="center">
-    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=560f1a&gradient=e5445c&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
+    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=5D3E87&gradient=5D3E87&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
      <img src="https://discordapp.com/api/guilds/484502176245350410/widget.png?style=banner3" alt="Discord Banner 2"/>
   </div>
   <br />
@@ -191,5 +191,5 @@
   
 ---
   
-<h4 align="center"><a href="https://github.com/babyico"><img src="https://img.shields.io/github/license/babyico/babyico?color=560f1a&logo=unlicense&logoColor=560f1a&style=for-the-badge"></a>
+<h4 align="center"><a href="https://github.com/babyico"><img src="https://img.shields.io/github/license/babyico/babyico?color=5D3E87&logo=unlicense&logoColor=392653&style=for-the-badge"></a>
   <br><a href="https://babyico.xyz/">©Iconical</a></h4>
