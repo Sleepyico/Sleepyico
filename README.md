@@ -9,7 +9,7 @@
 <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=5D3E87&style=flat-square&label=Profile%20Views" /></a> 
 <a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=5D3E87&label=Twitch&logo=Twitch&logoColor=392653&style=flat-square" /></a>
 <div align="right">
-  <a href="https://app.daily.dev/iconical"><img src="https://api.daily.dev/devcards/d72cb9a0da35429c8001c230234c9651.png?r=j9c" width="270" align="right" alt="Laith's Dev Card"/></a>
+  <a href="https://app.daily.dev/iconical"><img src="https://api.daily.dev/devcards/d72cb9a0da35429c8001c230234c9651.png?r=j9c" width="190" align="right" alt="Laith's Dev Card"/></a>
   </div>
 </div>
 
@@ -18,11 +18,9 @@
     
 - 🔭 Currently working on personal projects.<br>
 
-- 🌱 Learning and improving into a Full-stack development.<br>
+- 🌱 Learning and improving into a Full-stack/Game development.<br>
   
-- 🥅 2023-2024 Goals: Contribute more into publc and self projects.<br>
-
-- 👨‍💻 My upcoming and current projects are and will be listed on my website.<br>
+- 🥅 2024-2025 Goals: Finalize started projects fully.<br>
   
 - 🎨 I know creating and maintaining Games, websites, discord bots, and etc...<br>
      + You can get access to my work on [Patreon](https://patreon.com/babyiconical) <br/> or view my [Shop](https://iconical.gumroad.com)
