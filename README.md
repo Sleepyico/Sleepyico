@@ -9,7 +9,7 @@
 <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=5D3E87&style=flat-square&label=Profile%20Views" /></a> 
 <a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=5D3E87&label=Twitch&logo=Twitch&logoColor=392653&style=flat-square" /></a>
 <div align="right">
-  <img src="./imgs/ghostface.png" width="180" align="right" />
+  <a href="https://app.daily.dev/iconical"><img src="https://api.daily.dev/devcards/d72cb9a0da35429c8001c230234c9651.png?r=j9c" width="270" align="right" alt="Laith's Dev Card"/></a>
   </div>
 </div>
 
