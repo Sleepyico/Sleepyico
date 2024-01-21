@@ -35,7 +35,7 @@
 
 <h2>
 <div align="left">
-<img src="./imgs/connectwithme.png" width="350" />
+<img src="./imgs/connectwithme.png" width="250" />
 </div>
 </h2>
 <div align="center">
@@ -77,7 +77,7 @@
 
 <h2>
 <div align="left">
-<img src="./imgs/myskills.png" width="350" /></h2>
+<img src="./imgs/myskills.png" width="250" /></h2>
 </div>
 </h2>
 
@@ -138,7 +138,7 @@
 ---
  
 <div align="left">
-<img src="./imgs/mystats.png" width="350" /></h2>
+<img src="./imgs/mystats.png" width="250" /></h2>
 </div>
 <br>
 
