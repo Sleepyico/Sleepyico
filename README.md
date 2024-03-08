@@ -9,7 +9,7 @@
 <a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=851118&style=flat-square&label=Profile%20Views" /></a> 
 <a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=851118&label=Twitch&logo=Twitch&logoColor=851118&style=flat-square" /></a>
 <div align="right">
-  <a href="https://app.daily.dev/iconical"><img src="https://api.daily.dev/devcards/d72cb9a0da35429c8001c230234c9651.png?r=j9c" width="190" align="right" alt="Laith's Dev Card"/></a>
+  <a href="https://app.daily.dev/iconical"><img src="https://api.daily.dev/devcards/v2/LcOnkEbRDnmitfA4xvi2S.png?type=default&r=eso" width="190" align="right" alt="Laith's Dev Card"/></a>
   </div>
 </div>
 
@@ -71,7 +71,7 @@
 </a>
 </div>  <br>
 <div align="center">
-<a href="https://patreon.com/babyiconical"><img style="margin: 5px; width: 220px;" width=6% src="./imgs/support-patreon.png"></a>
+<a href="https://patreon.com/babyiconical"><img style="margin: 5px; width: 180px;" width=6% src="./imgs/support-patreon.png"></a>
 </div>
 
 <br>
@@ -84,7 +84,7 @@
 
 <table>
 <tr>
-<td valign="top" width="66%">
+<td valign="top" width="60%">
 
 ### Development  
 <div align="center">  
