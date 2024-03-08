@@ -10,7 +10,7 @@
 <a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=851118&label=Twitch&logo=Twitch&logoColor=851118&style=flat-square" /></a>
 <div align="right">
   <a href="https://app.daily.dev/iconical">
-  <img src="./imgs/rias-300x500.png" width="190" align="right" alt="Laith's Dev Card"/></a>
+  <img src="./imgs/rias-300x500.png" width="170" align="right" alt="Laith's Dev Card"/></a>
   </div>
 </div>
 
