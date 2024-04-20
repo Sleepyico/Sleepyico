@@ -1,13 +1,13 @@
 <h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.vercel.app">Iconical</a> 👋 </h3>
 <h2 align="center"> A Full-Stack Developer and Designer </h2>
 <!-- <h2 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=10000&color=851118&vCenter=true&width=725&lines=A+21+years+old+Full-Stack+Developer+and+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=10000&color=f497ce&vCenter=true&width=725&lines=A+21+years+old+Full-Stack+Developer+and+Designer" alt="Typing SVG" /></a>
 </h2> -->
 
 
 <div align="center"> 
-<a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=851118&style=flat-square&label=Profile%20Views" /></a> 
-<a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=851118&label=Twitch&logo=Twitch&logoColor=851118&style=flat-square" /></a>
+<a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=f497ce&style=flat-square&label=Profile%20Views" /></a> 
+<a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=f497ce&label=Twitch&logo=Twitch&logoColor=f497ce&style=flat-square" /></a>
 <div align="right">
   <a href="https://app.daily.dev/iconical">
   <img src="./imgs/rias-300x500.png" width="170" align="right" alt="Laith's Dev Card"/></a>
@@ -23,7 +23,7 @@
 - 🥅 2024-2025 Goals: Finalize started projects fully.<br>
   
 - 🎨 I know creating and maintaining Games, websites, discord bots, and etc...<br>
-     + You can get access to my work on [Patreon](https://patreon.com/babyiconical) <br/> or view my [Shop](https://iconical.gumroad.com)
+     + You can get access to my work on [Ko-Fi](https://ko-fi.com/iconical) <br/> or view my [Shop](https://shop.iconical.dev)
 
     
 
@@ -63,15 +63,12 @@
 <!-- <a href="https://behance.net/iconical" target="_blank">
 <img src=./logos/Social/behance.svg alt=behance width=6% style="margin-bottom: 5px;" />
 </a> -->
-<a href="https://babyico.vercel.app/" target="_blank">
+<a href="https://iconical.dev/" target="_blank">
 <img src=./logos/Social/website-pink.svg alt=website width=6% style="margin-bottom: 3px;" />
-</a>
-<a href="https://ico.is-a.dev/" target="_blank">
-<img src=./logos/Social/website.svg alt=website width=6% style="margin-bottom: 3px;" />
 </a>
 </div>  <br>
 <div align="center">
-<a href="https://patreon.com/babyiconical"><img style="margin: 5px; width: 180px;" width=6% src="./imgs/support-patreon.png"></a>
+<a href="https://ko-fi.com/iconical"><img style="margin: 5px; padding: 2px; width: 200px;" width=6% src="./imgs/kofi-support.svg"></a>
 </div>
 
 <br>
@@ -163,7 +160,7 @@
 <details close>
   <summary>🧠 Check Activities</summary>
 <div align="center">
-    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=851118&gradient=851118&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
+    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=f497ce&gradient=f497ce&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
      <img src="https://discordapp.com/api/guilds/484502176245350410/widget.png?style=banner3" alt="Discord Banner 2"/>
   </div>
   <br />
@@ -176,5 +173,5 @@
   
 ---
   
-<h4 align="center"><a href="https://github.com/babyico"><img src="https://img.shields.io/github/license/babyico/babyico?color=851118&logo=unlicense&logoColor=851118&style=for-the-badge"></a>
+<h4 align="center"><a href="https://github.com/babyico"><img src="https://img.shields.io/github/license/babyico/babyico?color=f497ce&logo=unlicense&logoColor=f497ce&style=for-the-badge"></a>
   <br><a href="https://babyico.vercel.app/">©Iconical</a></h4>
