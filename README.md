@@ -1,12 +1,12 @@
-<h3 align="center"> Hewo, I'm Laith - aka <a href="https://babyico.vercel.app">Iconical</a> 👋 </h3>
+<h3 align="center"> Hewo, I'm Laith - aka <a href="https://iconical.dev">Iconical</a> 👋 </h3>
 <h2 align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=3000&color=AC1C23&center=true&vCenter=true&random=false&width=520&height=22&lines=A+Full-Stack+Developer+%26+Designer" alt="Typing SVG" /></a>
 </h2>
 
 
 <div align="center"> 
-<a href="https://github.com/babyico"><img src="https://komarev.com/ghpvc/?username=babyico&color=ac1c23&style=flat-square&label=Profile%20Views" /></a> 
-<a href="https://twitch.tv/babyiconical"><img src="https://img.shields.io/twitch/status/babyiconical?color=ac1c23&label=Twitch&logo=Twitch&logoColor=ac1c23&style=flat-square" /></a>
+<a href="https://github.com/Sleepyico"><img src="https://komarev.com/ghpvc/?username=Sleepyico&color=ac1c23&style=flat-square&label=Profile%20Views" /></a> 
+<a href="https://twitch.tv/Sleepyico"><img src="https://img.shields.io/twitch/status/Sleepyico?color=ac1c23&label=Twitch&logo=Twitch&logoColor=ac1c23&style=flat-square" /></a>
 <div align="right">
   <a href="https://app.daily.dev/iconical">
   <img src="src/images/sdv/rias-r.png" width="131" align="right" alt="Laith's Dev Card"/></a>
@@ -22,7 +22,7 @@
 - 🥅 2024-2025 Goals: Contribute and finalize started projects fully.<br>
   
 - 🎨 I know creating and maintaining Games, websites, discord bots, and etc...<br>
-     + You can get access to my work on [Ko-Fi](https://ko-fi.com/iconical) <br/> or view my [Shop](https://shop.iconical.dev)
+     + You can get access to my work on [Patreon](https://patreon.com/Sleepyico) <br/> or view my [Shop](https://shop.iconical.dev)
 
     
 
@@ -35,10 +35,10 @@
   <h2 style="font-size: 1.5rem" >Connect with me 💟</h2>
 </div>
 <div align="center">
-  <a href="https://instagram.com/babyiconical" target="_blank">
+  <a href="https://instagram.com/Sleepyico" target="_blank">
   <img src="src/images/icons/Social/instagram.svg" alt=instagram width=6% style="margin-bottom: 5px;" />
   </a>  
-  <a href="https://twitter.com/intent/follow?screen_name=babyiconical" target="_blank">
+  <a href="https://twitter.com/intent/follow?screen_name=Sleepyiconical" target="_blank">
   <img src="src/images/icons/Social/twitter.svg" alt=twitter width=6% style="margin-bottom: 5px;" />
   </a>
   <a href="https://iconical.dev/discord" target="_blank">
@@ -47,7 +47,7 @@
   <a href="https://iconical.dev/blog" target="_blank">
   <img src="src/images/icons/Social/devto-v2.svg" alt=devto width=6% style="margin-bottom: 3px;" />
   </a>
-  <!-- <a href="https://babyico.medium.com/" target="_blank">
+  <!-- <a href="https://Sleepyico.medium.com/" target="_blank">
   <img src="src/images/icons/Social/medium.svg" alt=medium width=6% style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.hackerrank.com/iconical" target="_blank">
@@ -64,7 +64,7 @@
   </a>
   </div>  <br>
   <div align="center">
-  <a href="https://ko-fi.com/iconical"><img style="margin: 5px; padding: 2px; width: 200px;" width=6% src="src/images/sdv/kofi-support.svg"></a>
+  <a href="https://patreon.com/Sleepyico"><img style="margin: 5px; padding: 2px; width: 200px;" width=6% src="src/images/sdv/support-patreon.png"></a>
 </div>
 
 <br>
@@ -124,21 +124,21 @@
 <br>
 
 <div align="center">
-<a href="https://babyico.vercel.app/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=ac1d24&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
+<a href="https://iconical.dev/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sleepyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=ac1d24&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
 </a>
 
 <a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=babyico&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=ac1d24&fire=ac1d24&currStreakNum=FFFFFF&sideNums=ac1d24&currStreakLabel=ac1d24&sideLabels=FCD0DA&dates=FFFFFF"> </a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sleepyico&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=ac1d24&fire=ac1d24&currStreakNum=FFFFFF&sideNums=ac1d24&currStreakLabel=ac1d24&sideLabels=FCD0DA&dates=FFFFFF"> </a>
 
-<a href="https://babyico.vercel.app/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=ac1d24&text_color=FAF9F6" />
+<a href="https://iconical.dev/">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepyico&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=ac1d24&text_color=FAF9F6" />
 </a>
  
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=ac1d24&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
 </div>
-<p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=dark_dimmed&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
+<p align="center"> <a href="https://github.com/Sleepyico"><img src="https://github-profile-trophy.vercel.app/?username=Sleepyico&theme=dark_dimmed&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Sleepyico" /></a> </p>
   
   <div align="center">
    <a href="https://leetcode.com/iconical/"><img src="https://leetcard.jacoblin.cool/iconical?theme=dark&font=Baloo%202&ext=heatmap"></a> 
@@ -160,7 +160,7 @@
 <div align="center">
   <a href="https://stackoverflow.com/users/17571195/iconical"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17571195&theme=dark" /></a>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg"?uid=laith-daaja&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=laith-daaja&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=a62b37&bar_color_cover=true" /></a>
-  <a href="https://github.com/babyico"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Laith&quote=Never%20interrupt%20your%20enemies%20when%20they%20are%20making%20a%20mistake" /></a>
+  <a href="https://github.com/Sleepyico"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Laith&quote=Never%20interrupt%20your%20enemies%20when%20they%20are%20making%20a%20mistake" /></a>
   </details>
  </div>
   
@@ -179,5 +179,5 @@
 
 ---
   
-<h4 align="center"><a href="https://github.com/babyico"><img src="https://img.shields.io/github/license/babyico/babyico?color=ac1c23&logo=unlicense&logoColor=ac1c23&style=for-the-badge"></a>
-  <br><a href="https://babyico.vercel.app/">©Iconical</a></h4>
+<h4 align="center"><a href="https://github.com/Sleepyico"><img src="https://img.shields.io/github/license/Sleepyico/Sleepyico?color=ac1c23&logo=unlicense&logoColor=ac1c23&style=for-the-badge"></a>
+  <br><a href="https://iconical.dev/">©Iconical</a></h4>

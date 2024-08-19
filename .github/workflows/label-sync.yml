@@ -16,7 +16,7 @@ jobs:
       - uses: EndBug/label-sync@v2
         with:
           # If you want to use a config file, you can put its path or URL here, multiple files are also allowed (more info in the paragraphs below)
-          config-file: 'https://raw.githubusercontent.com/babyico/.github/master/.github/labels.yml'
+          config-file: 'https://raw.githubusercontent.com/Sleepyico/.github/master/.github/labels.yml'
 
           # If you want to delete any additional label, set this to true
           delete-other-labels: true
