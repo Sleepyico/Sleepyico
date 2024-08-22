@@ -22,7 +22,7 @@
 - 🥅 2024-2025 Goals: Contribute and finalize started projects fully.<br>
   
 - 🎨 I know creating and maintaining Games, websites, discord bots, and etc...<br>
-     + You can get access to my work on [Patreon](https://patreon.com/Sleepyico) <br/> or view my [Shop](https://shop.iconical.dev)
+     + You can get access to my work on [Ko-Fi](https://ko-fi.com/iconical) <br/> or view my [Shop](https://shop.iconical.dev)
 
     
 
@@ -64,7 +64,7 @@
   </a>
   </div>  <br>
   <div align="center">
-  <a href="https://patreon.com/Sleepyico"><img style="margin: 5px; padding: 2px; width: 200px;" width=6% src="src/images/sdv/support-patreon.png"></a>
+  <a href="https://ko-fi.com/iconical"><img style="margin: 5px; padding: 2px; width: 200px;" width=6% src="src/images/sdv/kofi-support.svg"></a>
 </div>
 
 <br>
