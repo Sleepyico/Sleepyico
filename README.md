@@ -168,13 +168,11 @@
 
 ### 📑 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to fix Fortnite's error ESP-buimet-003](https://iconical.dev/blog/How-To-Fix-Fortnite-ESP-buimet-003) - 2024-03-10
-
-- [Introduction to Testing in JavaScript](https://iconical.dev/blog/Introduction-To-Testing-In-JavaScript) - 2024-04-29
-
-- [Resources to learn Rust](https://iconical.dev/blog/Resources-to-learn-Rust) - 2024-05-01
-
-- [Vanitas Music Bot (Self-Hosted)](https://iconical.dev/blog/Vanitas-Music-Bot) - 2023-05-07
+- [Exploring Deno 2.0 Why Developers Should Care](https://iconical.dev/blog/Exploring-Deno-2.0)
+- [The Best of 2024 Browsers Edition](https://iconical.dev/blog/The-Best-of-2024-Browsers-Edition)
+- [Resources to learn Rust](https://iconical.dev/blog/Resources-to-learn-Rust)
+- [Introduction to Testing in JavaScript](https://iconical.dev/blog/Introduction-To-Testing-In-JavaScript)
+- [How to fix Fortnite&#39;s error ESP-buimet-003](https://iconical.dev/blog/How-To-Fix-Fortnite-ESP-buimet-003)
 <!-- BLOG-POST-LIST:END -->
 
 ---
