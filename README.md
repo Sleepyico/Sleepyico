@@ -168,11 +168,11 @@
 
 ### 📑 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Synology Install XBackBone With Portainer](https://iconical.dev/blog/Synology-Install-XBackBone-With-Portainer)
 - [Exploring Deno 2.0 Why Developers Should Care](https://iconical.dev/blog/Exploring-Deno-2.0)
 - [The Best of 2024 Browsers Edition](https://iconical.dev/blog/The-Best-of-2024-Browsers-Edition)
 - [Resources to learn Rust](https://iconical.dev/blog/Resources-to-learn-Rust)
 - [Introduction to Testing in JavaScript](https://iconical.dev/blog/Introduction-To-Testing-In-JavaScript)
-- [How to fix Fortnite&#39;s error ESP-buimet-003](https://iconical.dev/blog/How-To-Fix-Fortnite-ESP-buimet-003)
 <!-- BLOG-POST-LIST:END -->
 
 ---
