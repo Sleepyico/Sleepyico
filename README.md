@@ -6,23 +6,27 @@
 
 <div align="center"> 
 <a href="https://github.com/Sleepyico"><img src="https://komarev.com/ghpvc/?username=Sleepyico&color=ac1c23&style=flat-square&label=Profile%20Views" /></a> 
-<a href="https://twitch.tv/Sleepyico"><img src="https://img.shields.io/twitch/status/Sleepyico?color=ac1c23&label=Twitch&logo=Twitch&logoColor=ac1c23&style=flat-square" /></a>
-<div align="right">
-  <a href="https://app.daily.dev/iconical">
-  <img src="src/images/sdv/rias-r.png" width="131" align="right" alt="Laith's Dev Card"/></a>
-  </div>
 </div>
 
   <div align="left">  
     
-- 🔭 Currently working on personal projects.<br>
+### 🔥 What I’m working on:  
+- Constantly **improving my stack**—from game to full-stack development.  
+- Developing games in Unreal Engine and web aoos with Next.js.  
+- Building **OopsApps**, a suite of self-hosted web apps for smarter workflows.  
 
-- 🌱 Learning and improving into a Full-stack & Game development.<br>
-  
-- 🥅 2024-2025 Goals: Contribute and finalize started projects fully.<br>
-  
-- 🎨 I know creating and maintaining Games, websites, discord bots, and etc...<br>
-     + You can get access to my work on [Ko-Fi](https://ko-fi.com/iconical) <br/> or view my [Shop](https://shop.iconical.dev)
+### 🥅 2025-2026 Goals:  
+- Contribute more to open-source and community-driven development.  
+- Keep pushing my skills in both game and web development.  
+- Finalize and launch my side projects.  
+
+### 🎨 What I create:  
+- **Games** (Unreal Engine, Godot)  
+- **Web Apps** (Next.js, TypeScript, full-stack systems)  
+- **Automation & Tools** (Discord bots, AI-powered features)  
+
+### ☕ Support my madness: 
+ - If you enjoy my work, find it useful, or just want to fuel my late-night coding sprees, [Buy me a coffee](https://www.buymeacoffee.com/iconical) and keep the madness alive!  
 
     
 
@@ -32,40 +36,30 @@
 <br/>  
 
 <div align="left">
-  <h2 style="font-size: 1.5rem" >Connect with me 💟</h2>
+  <h2 style="font-size: 1.5rem">Connect with me 💟</h2>
 </div>
 <div align="center">
-  <a href="https://instagram.com/Sleepyico" target="_blank">
-  <img src="src/images/icons/Social/instagram.svg" alt=instagram width=6% style="margin-bottom: 5px;" />
-  </a>  
-  <a href="https://twitter.com/intent/follow?screen_name=Sleepyiconical" target="_blank">
-  <img src="src/images/icons/Social/twitter.svg" alt=twitter width=6% style="margin-bottom: 5px;" />
+  <a href="https://twitter.com/Sleepyiconical" target="_blank">
+    <img src="src/images/icons/Social/twitter.svg" alt="Twitter/X" width="5%" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/sleepyico" target="_blank">
+    <img src="src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="5%" style="margin-bottom: 5px;" />
   </a>
   <a href="https://iconical.dev/discord" target="_blank">
-  <img src="src/images/icons/Social/discord.svg" alt=discord width=6% style="margin-bottom: 5px;" />
+    <img src="src/images/icons/Social/discord.svg" alt="Discord" width="5%" style="margin-bottom: 5px;" />
   </a>
   <a href="https://iconical.dev/blog" target="_blank">
-  <img src="src/images/icons/Social/devto-v2.svg" alt=devto width=6% style="margin-bottom: 3px;" />
+    <img src="src/images/icons/Social/devto-v2.svg" alt="Blog" width="5%" style="margin-bottom: 3px;" />
   </a>
-  <!-- <a href="https://Sleepyico.medium.com/" target="_blank">
-  <img src="src/images/icons/Social/medium.svg" alt=medium width=6% style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.hackerrank.com/iconical" target="_blank">
-  <img src="src/images/icons/Social/hackerrank.svg" alt=hackerrank width=6% style="margin-bottom: 5px;" />
-  </a> -->
-  <a href="https://stackoverflow.com/users/17571195" target="_blank">
-  <img src="src/images/icons/Social/stackoverflow.svg" alt=stackoverflow width=6% style="margin-bottom: 5px;" />
-  </a>
-  <!-- <a href="https://behance.net/iconical" target="_blank">
-  <img src="src/images/icons/Social/behance.svg" alt=behance width=6% style="margin-bottom: 5px;" />
-  </a> -->
   <a href="https://iconical.dev/" target="_blank">
-  <img src="src/images/icons/Social/website-pink.svg" alt=website width=6% style="margin-bottom: 3px;" />
+    <img src="src/images/icons/Social/website-pink.svg" alt="Website" width="5%" style="margin-bottom: 3px;" />
   </a>
-  </div>  <br>
-  <div align="center">
-  <a href="https://ko-fi.com/iconical"><img style="margin: 5px; padding: 2px; width: 200px;" width=6% src="src/images/sdv/kofi-support.svg"></a>
+</div>  
+<br>
+<div align="center">
+    <a href="https://www.buymeacoffee.com/iconical" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Support My Madness" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>  
 </div>
+
 
 <br>
 
@@ -75,43 +69,51 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
-
-### Development  
-  <div align="center">  
+<td valign="top" width="33%">
+<h2>💻 Development</h2>  
+<div align="center">  
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a> 
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React.js" height="50" /></a>  
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" /></a>  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>  
   <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=rust" alt="Rust" height="50" /></a>  
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cs" alt="C#" height="50" /></a>  
-  <a href="https://www.learn-c.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>   
+  <a href="https://blueprintue.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unreal" alt="Blueprint UE" height="50" /></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="SQL / PostgreSQL" height="50" /></a>  
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
-  <a href="https://electronjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=electron" alt="electron.js" height="50" /></a> 
+  <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=electron" alt="Electron" height="50" /></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>  
-  <a href="https://www.discord.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bots" alt="discordjs" height="50" /></a> 
-  </div>
-  </div>
+  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50" /></a>  
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a> 
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
+</div> 
 </td>
+  
 <td valign="top" width="33%">
-
-### Apps, DevOps & Engines  
+<h2>🛠️ Apps & Engines</h2>  
 <div align="center">  
-<a href="https://visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" height="50" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" /></a>  
-<a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" height="50" /></a>  <a href="https://blender.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=blender" alt="Blender" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>  
-<a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity" alt="Unity" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="50" /></a>  
-<a href="https://Cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" height="50" /></a> 
-</div>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" height="50" /></a>  
+  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50" /></a>  
+  <a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" height="50" /></a>  
+  <a href="https://figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>  
+  <a href="https://godotengine.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=godot" alt="Godot" height="50" /></a>  
+  <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity" alt="Unity" height="50" /></a>  
+</div>  
+</td>
 
-</td></tr></table>   
+<td valign="top" width="33%">
+<h2>☁️ Services</h2>    
+<div align="center">  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>  
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>  
+  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" /></a>  
+  <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" height="50" /></a>  
+</div>  
+</td>
+
+</tr>
+</table>   
 
 ---
  
