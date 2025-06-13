@@ -142,10 +142,6 @@
 </div>
 <p align="center"> <a href="https://github.com/Sleepyico"><img src="https://github-profile-trophy.vercel.app/?username=Sleepyico&theme=dark_dimmed&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Sleepyico" /></a> </p>
   
-  <div align="center">
-   <a href="https://leetcode.com/iconical/"><img src="https://leetcard.jacoblin.cool/iconical?theme=dark&font=Baloo%202&ext=heatmap"></a> 
-  </div>  
-  
 </details>
 
 ---
@@ -155,13 +151,11 @@
 <details close>
   <summary>🧠 Check Activities</summary>
 <div align="center">
-    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.kyrie25.me/api/362301055976996864?waveColor=ac1c23&gradient=ac1c23&idleMessage=Idling+UwU!+You+can+text+me+tho&bg=DD272700"></a>
+    <a href="https://discord.com/invite/QXpFpg94uG"><img src="https://lanyard.cnrad.dev/api/362301055976996864?bg=0a0a0a&borderRadius=12)](https://discord.com/users/362301055976996864"></a>
      <img src="https://discordapp.com/api/guilds/484502176245350410/widget.png?style=banner3" alt="Discord Banner 2"/>
   </div>
   <br />
 <div align="center">
-  <a href="https://stackoverflow.com/users/17571195/iconical"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17571195&theme=dark" /></a>
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg"?uid=laith-daaja&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=laith-daaja&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=a62b37&bar_color_cover=true" /></a>
   <a href="https://github.com/Sleepyico"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Laith&quote=Never%20interrupt%20your%20enemies%20when%20they%20are%20making%20a%20mistake" /></a>
   </details>
  </div>
